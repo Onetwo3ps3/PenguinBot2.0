@@ -1,0 +1,1 @@
+This is an ELEGOO Penguin Bot 2.0 code from the factory. I am having issues with Nano (the robots name for future reference) not playing the music files. I am using this platform and Chat GPT to discover if it is a code issue or a power issue. I will be testing the voltage with a multimeter once I have working code verified if my problem persists.
